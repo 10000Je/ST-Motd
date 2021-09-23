@@ -1,0 +1,5 @@
+name: ST-Motd
+version: '1.0'
+main: com.stuudent.motd.MotdCore
+softdepend:
+  - 'ProtocolLib'

@@ -1,0 +1,10 @@
+ServerMotd:
+  - '&c&l[&a&lG&d&l] &f&l| 현재 서버에 접속이 가능합니다!'
+  - '&f&l└ &a&l플러그인 &f&l테스트용 서버'
+
+ServerHoverList:
+  - '안녕하세요'
+  - '테스트용 HOVERLIST.'
+  - '잘 작동하네요.'
+
+ServerMaxPlayers: 2021
